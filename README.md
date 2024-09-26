@@ -52,8 +52,11 @@ Conclusion: The Student Management System serves as an effective solution for ma
 <br/>
 
 # PROJECT VIDEO
-<br/>
 https://github.com/user-attachments/assets/19d895d3-1411-4947-b5c5-b65b07d1d3d7
+
+<br/>
+
+This internship has increased my interest in pursuing a career in Java Programming. I truly appreciate all of the time and effort that you and other staff spent training me. This has been a valuable learning experience. Thank you again for all your support, and for all of the opportunities you have given me.
 
 
 
