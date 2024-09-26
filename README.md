@@ -53,6 +53,7 @@ Conclusion: The Student Management System serves as an effective solution for ma
 
 # PROJECT VIDEO
 <br/>
+https://github.com/user-attachments/assets/ff898060-01fb-4afe-bf0b-fe932e5c596d
 
 
 
